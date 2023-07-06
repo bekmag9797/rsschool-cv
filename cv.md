@@ -5,7 +5,7 @@
   * adress
   + street rus
   * skills
-  + read
-  + write
+  + to read
+  + to write
   + play
   
